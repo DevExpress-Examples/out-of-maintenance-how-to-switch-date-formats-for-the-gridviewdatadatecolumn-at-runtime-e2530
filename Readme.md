@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to switch date formats for the GridViewDataDateColumn at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2530/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to change the date format for the date column at runtime. It displays two solutions: using a postback and callback.<br />
